@@ -40,7 +40,15 @@ function Homeworks() {
       </tr>
       <tr>
           <th scope="row">3</th>
-          <td>Homework 3</td>
+          <td>Homework 2.1</td>
+          <td>Storage</td>
+          <td><a href="https://codepen.io/tanishadalwadi/pen/OJpjNzQ?editors=0012"> Link</a> </td>
+       
+      </tr>
+     
+      <tr>
+          <th scope="row">4</th>
+          <td>Homework 2.2</td>
           <td>HTML</td>
           <td><a href="https://github.com/tanishadalwadi/homework2.2.git"> Link</a> </td>
        
