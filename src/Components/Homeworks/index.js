@@ -38,6 +38,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/tanishadalwadi/pen/gOmWyLM?editors=1112"> Link</a> </td>
        
       </tr>
+      <tr>
+          <th scope="row">3</th>
+          <td>Homework 3</td>
+          <td>HTML</td>
+          <td><a href="https://github.com/tanishadalwadi/homework2.2.git"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
