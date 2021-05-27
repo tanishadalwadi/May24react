@@ -11,7 +11,7 @@ function Homeworks() {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - MAY 24 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am student here </p>
+          <p className="lead">My Name is Tanisha Dalwadi and I am student here </p>
           <NavBar />
 
           <Table dark>
@@ -51,6 +51,13 @@ function Homeworks() {
           <td>Homework 2.2</td>
           <td>HTML</td>
           <td><a href="https://github.com/tanishadalwadi/homework2.2.git"> Link</a> </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">5</th>
+          <td>Homework 3.1</td>
+          <td>CSS Selector</td>
+          <td><a href="https://codepen.io/tanishadalwadi/pen/xxqLMyw"> Link</a> </td>
        
       </tr>
         
