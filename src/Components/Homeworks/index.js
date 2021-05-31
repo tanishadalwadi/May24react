@@ -74,6 +74,33 @@ function Homeworks() {
           <td><a href="https://github.com/tanishadalwadi/Navbar.git"> Link</a> </td>
        
       </tr>
+
+            <tr>
+          <th scope="row">7</th>
+          <td>Homework 3.4</td>
+          <td>Javascript Sentence Function</td>
+          <td><a href="https://codepen.io/tanishadalwadi/pen/JjWOKjd"> Link</a> </td>
+          <td> None </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">8</th>
+          <td>Homework 4.1</td>
+          <td>Interview Comcast </td>
+          <td><a href="https://codepen.io/tanishadalwadi/pen/JjWOMxB"> Link</a> </td>
+          <td> None </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">8</th>
+          <td>Homework 5.1</td>
+          <td>Theme change</td>
+          <td><a href="https://codepen.io/tanishadalwadi/pen/JjWMYJY"> Link</a> </td>
+          <td> None </td>
+       
+      </tr>
+
         
       </tbody>
     </Table>
